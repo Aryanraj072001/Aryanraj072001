@@ -84,15 +84,23 @@ A web app where students can report **lost or found items** on campus and quickl
 </td>
     <td width="50%" valign="top">
 
-### ➕ Next Project
+### 🧠 [Quizzes](https://github.com/Aryanraj072001/Quizzes)
 
-Something new is on the way.
+An interactive **quiz application** where users can test their knowledge, answer questions and see how they score.
 
-`<Add your next project's name, a short description and its tech here>`
+**✨ Highlights**
+- Multiple-choice questions
+- Instant answer feedback
+- Score tracking
+- Clean, responsive interface
 
 **🧰 Built with**
 
-`<tech badges>`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Aryanraj072001/Quizzes)
 
 </td>
   </tr>
@@ -101,6 +109,7 @@ Something new is on the way.
 <div align="center">
 
 [![Campus Lost & Found card](https://github-readme-stats.vercel.app/api/pin/?username=Aryanraj072001&repo=campus-lost-found&theme=radical&hide_border=true)](https://github.com/Aryanraj072001/campus-lost-found)
+[![Quizzes card](https://github-readme-stats.vercel.app/api/pin/?username=Aryanraj072001&repo=Quizzes&theme=radical&hide_border=true)](https://github.com/Aryanraj072001/Quizzes)
 
 </div>
 
